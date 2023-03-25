@@ -1,0 +1,8 @@
+.todo-item {
+	display: flex;
+	gap: 7px;
+}
+
+.todo-li {
+	font-size: 17px;
+}
